@@ -8,4 +8,3 @@ public class Tester {
 		System.out.println("hi");
 	}
 }
-s
